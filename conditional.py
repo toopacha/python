@@ -1,4 +1,4 @@
-
+#!python
 user_id = input('id?')
 user_pwd = input('passwaord?')
 
